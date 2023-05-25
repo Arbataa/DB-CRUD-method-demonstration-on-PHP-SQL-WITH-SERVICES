@@ -1,0 +1,9 @@
+.sides{
+    width: 48%;
+    float: left;
+    margin-bottom: 50px;
+}
+
+td{
+    text-align: center;
+}
